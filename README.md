@@ -25,6 +25,8 @@ Conducted analysis and cleaning for dataset in **SQL** to understand smart devic
 
 - BFA Fashion | Pratt Instite (May 2020)
 
+BFA Fashion | Pratt Instite (May 2020)
+
 ## Other Experience
 
 - Front Desk Recepionist - Maru Hair Salon (July 2022 - March 2024)
