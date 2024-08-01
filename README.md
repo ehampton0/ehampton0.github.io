@@ -11,7 +11,7 @@
 
 **Chinese Tourism** | [Project GitHub](https://github.com/emixmh/china-tourism)
 
-Collected and did premliminary cleaning of dataset in **Excel**. Conducted exploratory analysis using **Python** to understand China's population, income, and tourism's impact on its national economy.
+Collected and did preliminary cleaning of dataset in **Excel**. Conducted exploratory analysis using **Python** to understand China's population, income, and tourism's impact on its national economy.
 
 **Vestiaire Product Performance** | [Project GitHub](https://github.com/emixmh/vestiaire-project) | [Tableau Dashboard](https://public.tableau.com/app/profile/emily.hampton/viz/vestiaire/Dashboard2)
 
