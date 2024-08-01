@@ -4,8 +4,8 @@
 
 ## Certifications
 
-- Google Data Analaytics Certificate - Google/Coursera (June 2024)
-- CORe Credential of Readiness - Harvard Business School Online (November 2020)
+- Google Data Analaytics Certificate | Google/Coursera (June 2024)
+- CORe Credential of Readiness | Harvard Business School Online (November 2020)
 
 ## Projects
 
@@ -23,7 +23,7 @@ Conducted analysis and cleaning for dataset in **SQL** to understand smart devic
 
 ## Education
 
-- BFA Fashion - Pratt Instite (May 2020)
+- BFA Fashion | Pratt Instite (May 2020)
 
 ## Other Experience
 
