@@ -1,12 +1,12 @@
 # Data Analyst
 
 **Technical Skills:** Excel, SQL, Python, Tableau
-
+<br><br>
 ## Certifications
 
-**Google Data Analaytics Certificate** | Google/Coursera (June 2024)  
-**CORe Credential of Readiness** | Harvard Business School Online (November 2020)
-
+**Google Data Analaytics Certificate** - Google/Coursera (06-2024)  
+**CORe Credential of Readiness** - Harvard Business School Online (11-2020)
+<br><br>
 ## Projects
 
 ### Chinese Tourism
@@ -26,12 +26,12 @@ Conducted exploratory analysis and cleaning for dataset with 90K rows in **SQL**
 Conducted analysis and cleaning for dataset in **SQL** to understand smart device usage for marketing strategy: discovered user activity levels and metrics users actively tracked. Created visualizations and presentation deck in **Tableau** to illustrate findings.
 
 [Project GitHub](https://github.com/emixmh/google-casestudy) | [Tableau Presention](https://public.tableau.com/app/profile/emily.hampton/viz/BellabeatCapstoneProject_17167013509350/Story1)
-
+<br><br>
 ## Education
 
-**BFA Fashion** | Pratt Instite (May 2020)
-
+**BFA Fashion** - Pratt Instite (05-2020)
+<br><br>
 ## Other Experience
 
-**Front Desk Recepionist** | Maru Hair Salon (July 2022 - March 2024)  
-**Law Office Assistant** | Beys Liston & Mobargha LLP (March 2022 - October 2022)
+**Front Desk Recepionist** - Maru Hair Salon (07-2022 to 03-2024)  
+**Law Office Assistant** - Beys Liston & Mobargha LLP (03-2022 to 10-2022)
